@@ -14,7 +14,7 @@
 <p align="center">Vector illustration and graphic design.</p>
 
 <p align="center">
-  <img alt="Alpha 0.1" src="https://img.shields.io/badge/release-Alpha%200.1-d29922">
+  <a href="https://github.com/JenkinsRobotics/Aether-Vector/releases/tag/v0.1.0-alpha.1"><img alt="Alpha 0.1" src="https://img.shields.io/badge/release-v0.1.0--alpha.1-d29922"></a>
   <img alt="Apache-2.0" src="https://img.shields.io/badge/license-Apache--2.0-58a6ff">
   <a href="https://jenkinsrobotics.github.io/Aether-Vector/"><img alt="Website" src="https://img.shields.io/badge/site-Aether--Vector-1f6feb"></a>
 </p>
@@ -31,6 +31,7 @@ Aether Vector will be the suite's illustration app for logos, icons, diagrams an
 
 - ✅ **App shell** — The application frame on the shared Aether interface, ready for the editor.
 - ✅ **Shared vector foundation** — Paths, curves, Booleans and contours, proven in Aether Sketch.
+- ✅ **Model Studio interface** — The shared Aether interface: a transparent document header, floating resizable side cards, a separate tool tray, saved layouts and themes — the same in every app.
 
 ### Planned
 
